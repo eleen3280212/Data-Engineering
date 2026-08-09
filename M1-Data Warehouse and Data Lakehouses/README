@@ -1,1 +1,11 @@
-This lab assignment exposes you to designing a dimensional model (DM) regardless of the industry. Use the guide linked below to complete the lab.
+This lab assignment exposes you to designing a dimensional model (DM) regardless of the industry. 
+Complete each of the steps. Your working document may be any file type you prefer, but your final product should be a PDF. Name your file “YouName_LAB1” and turn it in to Canvas.
+1.	Visit any store or restaurant and make a purchase.
+2.	Obtain a retail transaction receipt dated within this module’s timeframe.
+3.	Write your name on the receipt, then scan or photograph it and attach the image to your working document.
+4.	In your working document:
+a.	List each item from your receipt.
+b.	Demonstrate how each item would fit into a fact table or a dimension table.
+5.	Create a star schema diagram to illustrate your data model.
+6.	Create a snowflake schema diagram showing the same data model in a normalized form.
+
